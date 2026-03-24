@@ -1,0 +1,5 @@
+Chapter 5 of Applied Machine Learning for Healthcare and Life Sciences Using AWS (published by Packt Publishing) is titled 
+"Implementing Machine Learning for Healthcare Payors" and does not specifically mention using an Amazon 
+SageMaker Data Wrangler exported file via an S3 URI.
+
+https://www.packtpub.com/en-us/product/applied-machine-learning-for-healthcare-and-life-sciences-using-aws-9781804610213
